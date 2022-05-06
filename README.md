@@ -7,7 +7,7 @@ One of the talks have heard as data scientist is always to toture data so that i
 I am a data enthusiat. I love working around data. I don't know everything, but i've always aspired to know more but not everything. I've carefully studied the basics of  mathematics and statistics that will help me draw better conclusion and know more about my data.
 
 - 🔭 I’m currently working on a project that will predict the name of my citizen state given their name and religion.
-- 🌱 I’m currently learning R programming.
+- 🌱 I’m currently learning R programming Language.
 - 👯 I’m looking to collaborate on open source project on data science and building sustainable development goal.
 - 🤔 I’m looking for help with learning more and collaborating with people in the data science space.
 - 💬 Ask me about Statistics, Data Science, Mathematics, Python and, anything about data. 
