@@ -10,7 +10,7 @@ I am a data enthusiat. I love working around data. I don't know everything, but 
 - 🌱 I’m currently learning R programming.
 - 👯 I’m looking to collaborate on open source project on data science and building sustainable development goal.
 - 🤔 I’m looking for help with learning more and collaborating with people in the data science space.
-- 💬 Ask me about Statistics, Data Science, and Mathematics, Python. 
+- 💬 Ask me about Statistics, Data Science, Mathematics, Python and, anything about data. 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Geek
 
