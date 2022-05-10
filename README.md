@@ -1,4 +1,4 @@
-###                                                                       Hola 👋, I'm Geek😎.
+###                                                                       Hola 👋, I'm Geek :nerd_face:.
 
 
 One of the talks have heard as data scientist is always to toture data so that it confess to you, but rather this is not my case. I love to care for data, by using the right tools to explore, analyze and wrangle the data so that the beautiful data can seamlessly give me an insight as to what it is portraying.
