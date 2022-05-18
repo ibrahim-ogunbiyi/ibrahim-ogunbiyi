@@ -18,6 +18,7 @@ I'm also a Technical Author at Hitsubscribe where i write articles related to th
 
 - [Intuitive introduction to Logistic Regression Understanding the mathematics behind the model](https://dev.to/comejoinfolks/intuitive-introduction-to-logistic-regression-understanding-the-mathematics-behind-the-model-39k3)
 - [4 Core things to do when cleaning your data for predictive model](https://dev.to/comejoinfolks/4-core-things-to-always-do-when-cleaning-your-data-for-predictive-models-5g0k)
+- [Feature Engineering: The Transformation phase (How to Encode Categorical Features)](https://dev.to/comejoinfolks/feature-engineering-the-transformation-phase-how-to-encode-categorical-features-19od)
 
 #### Technology & Tools
 
