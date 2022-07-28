@@ -58,7 +58,7 @@ I'm also a Technical Author at Comet.ML and Hitsubscribe where I write articles 
 
 ### Useful Links
  
- <a href="https://dev.to/comejoinfolks">![Devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a> <a href="https://www.https://www.linkedin.com/in/ibrahimogunbiyi/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>   <a href="https://twitter.com/comejoinfolks">![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>   <a href="https://linktr.ee/ibrahimwriting">![LinkTree (My Writing Portfolio)](https://img.shields.io/badge/linktree-008000?style=for-the-badge&logo=linktree&logoColor=white)</a>
+ <a href="https://dev.to/comejoinfolks">![Devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a> <a href="https://www.https://www.linkedin.com/in/ibrahimogunbiyi/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>   <a href="https://twitter.com/comejoinfolks">![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a> <a href="https://linktr.ee/ibrahimwriting">![LinkTree (My Writing Portfolio)](https://img.shields.io/badge/linktree-008000?style=for-the-badge&logo=linktree&logoColor=white)</a> <a href="https://www.freecodecamp.org/news/author/ibrahim/">![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white)</a>
  
  
  #### I love to See how I am performing for the year. This is my Stats
