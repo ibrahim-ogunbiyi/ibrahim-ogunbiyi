@@ -29,8 +29,7 @@ I'm also a Technical Author at Comet.ML and Hitsubscribe where I write articles 
 ## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height = 32px> 
 
 
-  ![image](https://img.shields.io/badge/Seaborn-239120?style=for-the-badge&logo=Seaborn&logoColor=white)  ![image](https://img.shields.io/badge/Matplotlib-239120?&style=for-the-badge&logo=Matplotlib&logoColor=white) ![image](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/Numpy-FF2D20?style=for-the-badge&logo=Numpy&logoColor=white)  ![image](	https://img.shields.io/badge/Scikit-learn-FF6C37?style=for-the-badge&logo=Scikit-learn&logoColor=white) ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![image](https://img.shields.io/badge/Pandas-F05032?style=for-the-badge&logo=pandas&logoColor=white)  ![image](https://img.shields.io/badge/Python-4A154B?style=for-the-badge&logo=python&logoColor=white)
-  <p  <a href="" target="_blank">
+  ![image](https://img.shields.io/badge/Seaborn-239120?style=for-the-badge&logo=Seaborn&logoColor=white)  ![image](https://img.shields.io/badge/Matplotlib-239120?&style=for-the-badge&logo=Matplotlib&logoColor=white) ![image](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/Numpy-FF2D20?style=for-the-badge&logo=Numpy&logoColor=white)  ![image](	https://img.shields.io/badge/Scikit-learn-FF6C37?style=for-the-badge&logo=Scikit-learn&logoColor=white) ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![image](https://img.shields.io/badge/Pandas-F05032?style=for-the-badge&logo=pandas&logoColor=white)  ![image](https://img.shields.io/badge/Python-4A154B?style=for-the-badge&logo=python&logoColor=white)<a href="" target="_blank">
     <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="jetbrains" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
@@ -54,7 +53,6 @@ I'm also a Technical Author at Comet.ML and Hitsubscribe where I write articles 
    <a href="https://github.com/ELanza-48" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-</p>
 
 ### Useful Links
  
